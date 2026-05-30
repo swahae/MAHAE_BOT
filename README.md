@@ -323,7 +323,3 @@ python mahae_control_receive.py
 Developed as part of the MAHAE_BOT autonomous traffic sign detection and robotic navigation project.
 
 ---
-
-## License
-
-This project is intended for educational and research purposes.
