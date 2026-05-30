@@ -307,17 +307,6 @@ python mahae_control_receive.py
 
 ---
 
-## Future Enhancements
-
-- Lane detection
-- Obstacle avoidance
-- Real-time video processing
-- GPS-based navigation
-- Cloud-based monitoring
-- Improved traffic sign dataset
-
----
-
 ## Authors
 
 Developed as part of the MAHAE_BOT autonomous traffic sign detection and robotic navigation project.
