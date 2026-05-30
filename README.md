@@ -263,6 +263,10 @@ python mahae_control_receive.py
 ```
 
 ---
+## setup
+<img width="1152" height="2048" alt="compressed_image" src="https://github.com/user-attachments/assets/f6d67ec7-c8f3-40c9-b52f-f11b56b41ecb" />
+
+<img width="2048" height="1152" alt="compressed_mahae_bot" src="https://github.com/user-attachments/assets/b79b9449-24b0-4a29-855b-f43395fe2980" />
 
 ## System Architecture
 
